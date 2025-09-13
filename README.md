@@ -90,7 +90,7 @@ The goal is to:
 
 **Distributions (Real vs Synthetic)**  
 - Amount  
-![Amount distribution](images/dist_Amount.png)  
+![Amount distribution](dist_Amount.png)  
 
 - V1  
 ![V1 distribution](images/dist_V1.png)  
