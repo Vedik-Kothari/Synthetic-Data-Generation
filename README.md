@@ -93,17 +93,17 @@ The goal is to:
 ![Amount distribution](dist_Amount.png)  
 
 - V1  
-![V1 distribution](images/dist_V1.png)  
+![V1 distribution](dist_V1.png)  
 
 - V2  
-![V2 distribution](images/dist_V2.png)  
+![V2 distribution](dist_V2.png)  
 
 - V3  
-![V3 distribution](images/dist_V3.png)  
+![V3 distribution](dist_V3.png)  
 
 **Privacy Check Histogram**  
 - Distances between synthetic and nearest real samples  
-![Distance histogram](images/distance_histogram.png)  
+![Distance histogram](distance_histogram.png)  
 
 ---
 
