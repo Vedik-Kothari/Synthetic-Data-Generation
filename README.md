@@ -107,4 +107,3 @@ The goal is to:
 
 ---
 
-## 📂 Repository Structure
