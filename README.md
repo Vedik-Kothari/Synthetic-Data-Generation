@@ -82,7 +82,7 @@ The goal is to:
 - 75%: **7.4857**  
 - Max: **26.0296**  
 
-👉 No synthetic record was “too close” to real ones → **privacy preserved** ✅
+No synthetic record was “too close” to real ones → **privacy preserved**
 
 ---
 
